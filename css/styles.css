@@ -143,6 +143,10 @@ header {
   justify-content: center;
 }
 
+menu {
+  width: 100%;
+}
+
 .logo {
   padding-top: 25px;
   padding-bottom: 25px;
@@ -245,6 +249,7 @@ body {
 
 .input_localisation {
   font-size: 1rem;
+  font-family: "Roboto", sans-serif;
   font-weight: bold;
   border: none;
   background-color: transparent;
@@ -359,7 +364,7 @@ body {
 
 .fiche--image {
   width: 100%;
-  height: 180px;
+  height: 220px;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -605,14 +610,11 @@ footer a:hover {
 
 .fiche--image {
   width: 100%;
-  height: 320px;
+  height: 220px;
   -o-object-fit: cover;
   object-fit: cover;
 }
 
-.menu {
-  width: 100%;
-}
 
 .menus_restaurant {
   background-color: #F6F6F6;
@@ -809,8 +811,7 @@ body {
 
 .fiche--image {
   width: 100%;
-  height: 300px;
-  /* ex 320 */
+  height: 220px;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -940,7 +941,7 @@ body {
   }
   .fiche--image {
     width: 100%;
-    height: 250px;
+    height: 220px;
     -o-object-fit: cover;
     object-fit: cover;
   }
@@ -1001,7 +1002,7 @@ body {
   }
   .fiche--image {
     width: 100%;
-    height: 320px;
+    height: 220px;
     -o-object-fit: cover;
     object-fit: cover;
   }
@@ -1045,7 +1046,7 @@ body {
   }
   .fiche--image {
     width: 100%;
-    height: 320px;
+    height: 220px;
     -o-object-fit: cover;
     object-fit: cover;
   }
