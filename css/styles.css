@@ -155,6 +155,7 @@ body {
   background: #FFFFFF;
   padding-left: 0px;
   text-decoration: none;
+  position: relative;
 }
 
 .logo_spinner {
@@ -176,7 +177,7 @@ body {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  height: 0;
+  height: 100%;
 }
 
 @keyframes loading-background {
